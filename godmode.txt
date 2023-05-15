@@ -25,33 +25,3 @@ raiseskill Run 100
 raiseskill Jump 100
 raiseskill Sneak 100
 raiseskill Swim 100
-
-
-My set for partial god mode (WITH THIS BUILD PULL OUT SHIELD, BLOCK, AND  YOU LITERALLY JUST WONT DIE):
-
-spawn HelmetChitin 1 2
-spawn ArmorChitinChest 1 2
-spawn ArmorChitinLegs 1 2
-spawn CapeFeathers 1 4
-
-spawn SwordSilver
-spawn ShieldKnight 1 4
-
-spawn AxeBlackMetal 1 4
-spawn PickaxeBlackMetal 1 4
-
-spawn Cultivator 1 3
-spawn Hoe 1 3
-spawn Hammer 1 3
-spawn FishingRod 1
-
-spawn SerpentStew 180
-spawn BloodPudding 180
-spawn LoxPie 180
-
-raiseskill Swords 100 
-raiseskill Blocking 100
-raiseskill Run 100
-raiseskill Jump 100
-raiseskill Sneak 100
-raiseskill Swim 100
